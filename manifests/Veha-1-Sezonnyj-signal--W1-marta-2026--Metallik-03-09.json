@@ -8,11 +8,17 @@
       "commit_sha": "e1099671cc19c653366f238f9d0419087b6c8061"
     },
     {
+      "path": "pages/Veha-1-Sezonnyj-signal--W1-marta-2026--Metallik-03-09/domains-pie.png",
+      "sha": "c2a671685c6e4237177cf22c83c96c5c37c941a5",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@d56318f48188c740a8ec70ffdf4ef3bca898d50f/pages/Veha-1-Sezonnyj-signal--W1-marta-2026--Metallik-03-09/domains-pie.png",
+      "commit_sha": "d56318f48188c740a8ec70ffdf4ef3bca898d50f"
+    },
+    {
       "path": "pages/Veha-1-Sezonnyj-signal--W1-marta-2026--Metallik-03-09/hero.webp",
       "sha": "9ce93c5fbca633256c414f7bf204b3c205edeb27",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@d13426946b4aff54f77ac29fe586607484a8c7b0/pages/Veha-1-Sezonnyj-signal--W1-marta-2026--Metallik-03-09/hero.webp",
       "commit_sha": "d13426946b4aff54f77ac29fe586607484a8c7b0"
     }
   ],
-  "updated_at": "2026-03-09T12:55:22Z"
+  "updated_at": "2026-03-09T12:55:29Z"
 }
