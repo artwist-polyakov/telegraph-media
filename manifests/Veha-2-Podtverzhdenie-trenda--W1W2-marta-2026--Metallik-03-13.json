@@ -10,8 +10,8 @@
     {
       "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/deals-comparison.png",
       "sha": "5d208dad9c38b88a2a462c97e126886a6c9e559f",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@7d3e5a8f6c3f455c1f8f042c541bf7de3376f435/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/deals-comparison.png",
-      "commit_sha": "7d3e5a8f6c3f455c1f8f042c541bf7de3376f435"
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@24c04957f7adb3cf5ff879ca43ecd97424400407/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/deals-comparison.png",
+      "commit_sha": "24c04957f7adb3cf5ff879ca43ecd97424400407"
     },
     {
       "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/domains-pie.png",
@@ -32,5 +32,5 @@
       "commit_sha": "c9fe46535e5bd37042bbf5dae5ada568be8f0eec"
     }
   ],
-  "updated_at": "2026-03-13T14:11:55Z"
+  "updated_at": "2026-03-13T14:15:26Z"
 }
