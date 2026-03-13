@@ -8,11 +8,17 @@
       "commit_sha": "7d3e5a8f6c3f455c1f8f042c541bf7de3376f435"
     },
     {
+      "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/domains-pie.png",
+      "sha": "af6f1a2c9655b77c04204abb8eeb07696b384df0",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@540a47a8ea0217376895e55432552deaef4b151a/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/domains-pie.png",
+      "commit_sha": "540a47a8ea0217376895e55432552deaef4b151a"
+    },
+    {
       "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/w1-vs-w2.png",
       "sha": "75be19a09d0914ef2840beb1f545baa32ea64930",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@c9fe46535e5bd37042bbf5dae5ada568be8f0eec/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/w1-vs-w2.png",
       "commit_sha": "c9fe46535e5bd37042bbf5dae5ada568be8f0eec"
     }
   ],
-  "updated_at": "2026-03-13T14:09:47Z"
+  "updated_at": "2026-03-13T14:10:54Z"
 }
