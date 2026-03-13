@@ -2,6 +2,12 @@
   "path": "Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13",
   "assets": [
     {
+      "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/cohort-maturation.png",
+      "sha": "343b8839a3eed05928ca9359e4b059376959671e",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@234d5b671b409112d7de04f4d4efb608694f44df/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/cohort-maturation.png",
+      "commit_sha": "234d5b671b409112d7de04f4d4efb608694f44df"
+    },
+    {
       "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/deals-comparison.png",
       "sha": "5d208dad9c38b88a2a462c97e126886a6c9e559f",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@7d3e5a8f6c3f455c1f8f042c541bf7de3376f435/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/deals-comparison.png",
@@ -20,5 +26,5 @@
       "commit_sha": "c9fe46535e5bd37042bbf5dae5ada568be8f0eec"
     }
   ],
-  "updated_at": "2026-03-13T14:10:54Z"
+  "updated_at": "2026-03-13T14:11:51Z"
 }
