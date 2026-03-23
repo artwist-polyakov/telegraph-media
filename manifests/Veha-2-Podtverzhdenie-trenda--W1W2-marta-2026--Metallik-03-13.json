@@ -44,6 +44,12 @@
       "commit_sha": "1bbf12cc5c17d734b5fb05d84c7fed5d51ad22f2"
     },
     {
+      "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/08_prozabor.png",
+      "sha": "138d9d5c627b5bcf0fe17661f172f12a29830bde",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@50261e8f1bf2d2fe265529197fe75915af47044d/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/08_prozabor.png",
+      "commit_sha": "50261e8f1bf2d2fe265529197fe75915af47044d"
+    },
+    {
       "path": "pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/cohort-maturation.png",
       "sha": "343b8839a3eed05928ca9359e4b059376959671e",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@234d5b671b409112d7de04f4d4efb608694f44df/pages/Veha-2-Podtverzhdenie-trenda--W1W2-marta-2026--Metallik-03-13/cohort-maturation.png",
@@ -74,5 +80,5 @@
       "commit_sha": "c9fe46535e5bd37042bbf5dae5ada568be8f0eec"
     }
   ],
-  "updated_at": "2026-03-23T13:04:02Z"
+  "updated_at": "2026-03-23T13:04:05Z"
 }
