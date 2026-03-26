@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#faf7f2" />
+<text x="74.0" y="86.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#65717d" text-anchor="start">3 / НЕДЕЛЬНЫЙ ТРЕНД</text>
+<text x="74.0" y="132.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">Март идёт ровно, аномальный пик пришёлся на середину февраля</text>
+<text x="74.0" y="176.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">Недельный ряд помогает отделить устойчивый спрос от разовых крупных заказов. Самый сильный</text>
+<text x="74.0" y="204.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">всплеск случился в неделе 9–15 февраля.</text>
+<rect x="74.0" y="226.0" width="1450.0" height="594.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<rect x="1111.5" y="288.0" width="348.5" height="472.0" fill="#eef5f9" rx="20.0" />
+<text x="1135.5" y="272.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#173f5f" text-anchor="start">Текущий 30-дневный срез</text>
+<line x1="130.0" y1="748.0" x2="1460.0" y2="748.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="118.0" y="754.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">0 ₽</text>
+<line x1="130.0" y1="598.7" x2="1460.0" y2="598.7" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="118.0" y="604.7" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">1 000 000 ₽</text>
+<line x1="130.0" y1="449.3" x2="1460.0" y2="449.3" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="118.0" y="455.3" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">2 000 000 ₽</text>
+<line x1="130.0" y1="300.0" x2="1460.0" y2="300.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="118.0" y="306.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">3 000 000 ₽</text>
+<polygon points="130.0,748.0 130.0,739.0 213.1,696.7 296.2,610.7 379.4,642.5 462.5,733.7 545.6,731.4 628.8,640.0 711.9,716.4 795.0,717.0 878.1,702.8 961.2,358.6 1044.4,705.3 1127.5,686.2 1210.6,721.3 1293.8,703.3 1376.9,708.9 1460.0,727.3 1460.0,748.0" fill="#dce9f2" opacity="0.950" />
+<polyline points="130.0,739.0 213.1,696.7 296.2,610.7 379.4,642.5 462.5,733.7 545.6,731.4 628.8,640.0 711.9,716.4 795.0,717.0 878.1,702.8 961.2,358.6 1044.4,705.3 1127.5,686.2 1210.6,721.3 1293.8,703.3 1376.9,708.9 1460.0,727.3" fill="none" stroke="#173f5f" stroke-width="6.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="130.0" cy="739.0" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="213.1" cy="696.7" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="296.2" cy="610.7" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="379.4" cy="642.5" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="462.5" cy="733.7" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="545.6" cy="731.4" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="628.8" cy="640.0" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="711.9" cy="716.4" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="795.0" cy="717.0" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="878.1" cy="702.8" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="961.2" cy="358.6" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<text x="961.2" y="786.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">09.02</text>
+<circle cx="1044.4" cy="705.3" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="1127.5" cy="686.2" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<text x="1127.5" y="786.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">23.02</text>
+<circle cx="1210.6" cy="721.3" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="1293.8" cy="703.3" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<text x="1293.8" y="786.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">09.03</text>
+<circle cx="1376.9" cy="708.9" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<circle cx="1460.0" cy="727.3" r="7.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<text x="1460.0" y="786.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">23.03</text>
+<rect x="823.2" y="242.6" width="276.0" height="80.0" fill="#f6e3dd" rx="18.0" />
+<text x="961.2" y="280.6" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#d36b52" text-anchor="middle">Пик недели</text>
+<text x="961.2" y="312.6" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700" fill="#17212b" text-anchor="middle">2 607 533 ₽</text>
+<text x="961.2" y="340.6" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="middle">09.02–15.02</text>
+<rect x="116.0" y="242.0" width="360.0" height="42.0" fill="#f4ecd8" rx="16.0" />
+<text x="136.0" y="270.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">После пика март держится в диапазоне 139–300 тыс. ₽ в неделю</text>
+</svg>
