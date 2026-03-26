@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#f5f1ea" />
+<defs>
+<linearGradient id="cover-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#f4ecdf" />
+  <stop offset="52%" stop-color="#f8f6f1" />
+  <stop offset="100%" stop-color="#d9e5ef" />
+</linearGradient>
+</defs>
+<rect x="40.0" y="40.0" width="1520.0" height="820.0" fill="url(#cover-bg)" rx="42.0" />
+<rect x="74.0" y="74.0" width="1452.0" height="752.0" fill="#ffffff" rx="36.0" stroke="#e9dfd0" stroke-width="2.0" opacity="0.620" />
+<text x="110.0" y="150.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#65717d" text-anchor="start">MARKETING BIG OVERVIEW</text>
+<text x="110.0" y="232.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="800" fill="#17212b" text-anchor="start">boxru.ru</text>
+<text x="110.0" y="288.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#173f5f" text-anchor="start">26 марта 2026</text>
+<text x="110.0" y="378.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="600" fill="#28333f" text-anchor="start">Трафик остался стабильным, но выручка резко просела</text>
+<text x="110.0" y="422.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="600" fill="#28333f" text-anchor="start">из-за падения среднего чека. В материале ниже — где</text>
+<text x="110.0" y="466.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="600" fill="#28333f" text-anchor="start">именно потерялась монетизация и какие направления</text>
+<text x="110.0" y="510.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="600" fill="#28333f" text-anchor="start">стоит ускорять уже в ближайшие недели.</text>
+<rect x="110.0" y="484.0" width="330.0" height="250.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<rect x="134.0" y="508.0" width="8.0" height="202.0" fill="#173f5f" rx="4.0" />
+<text x="166.0" y="538.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="600" fill="#65717d" text-anchor="start">Сессии</text>
+<text x="166.0" y="608.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">25 980</text>
+<text x="166.0" y="648.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" fill="#65717d" text-anchor="start">+2.4% к пред. 30 дням</text>
+<rect x="460.0" y="484.0" width="330.0" height="250.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<rect x="484.0" y="508.0" width="8.0" height="202.0" fill="#2f8f83" rx="4.0" />
+<text x="516.0" y="538.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="600" fill="#65717d" text-anchor="start">Покупки</text>
+<text x="516.0" y="608.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">66</text>
+<text x="516.0" y="648.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" fill="#65717d" text-anchor="start">-16.5% к пред. периоду</text>
+<rect x="810.0" y="484.0" width="330.0" height="250.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<rect x="834.0" y="508.0" width="8.0" height="202.0" fill="#d36b52" rx="4.0" />
+<text x="866.0" y="538.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="600" fill="#65717d" text-anchor="start">Выручка</text>
+<text x="866.0" y="608.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">1 171 295 ₽</text>
+<text x="866.0" y="648.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" fill="#65717d" text-anchor="start">-66.8% к пред. периоду</text>
+<rect x="1160.0" y="484.0" width="300.0" height="250.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<rect x="1184.0" y="508.0" width="8.0" height="202.0" fill="#d6a54b" rx="4.0" />
+<text x="1216.0" y="538.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="600" fill="#65717d" text-anchor="start">Средний чек</text>
+<text x="1216.0" y="608.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">17 747 ₽</text>
+<text x="1216.0" y="648.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" fill="#65717d" text-anchor="start">-60.2% к пред. периоду</text>
+<rect x="1070.0" y="110.0" width="390.0" height="250.0" fill="#173f5f" rx="30.0" />
+<text x="1110.0" y="166.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#d9e7f4" text-anchor="start">Сигнал месяца</text>
+<text x="1110.0" y="220.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start">Разрыв между стабильным</text>
+<text x="1110.0" y="262.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start">трафиком и слабой выручкой</text>
+<text x="1110.0" y="304.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start">объясняется не обвалом</text>
+<text x="1110.0" y="346.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start">спроса, а исчезновением</text>
+<text x="1110.0" y="388.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start">нескольких high-ticket</text>
+<text x="1110.0" y="430.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start">заказов в paid.</text>
+</svg>
