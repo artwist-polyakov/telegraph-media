@@ -2,11 +2,17 @@
   "path": "boxru-big-overview-2026-03-26",
   "assets": [
     {
+      "path": "pages/boxru-big-overview-2026-03-26/chart-comparison-periods.svg",
+      "sha": "d9a39243319c02ad0a34b0a66d790ea8dd232c46",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@9d051f6f3fa45443b9648dc28d97b143fa38c639/pages/boxru-big-overview-2026-03-26/chart-comparison-periods.svg",
+      "commit_sha": "9d051f6f3fa45443b9648dc28d97b143fa38c639"
+    },
+    {
       "path": "pages/boxru-big-overview-2026-03-26/cover-boxru-big-overview.svg",
       "sha": "b7e6ecfaf01a481fc5e3e43b4df4e55dc944c254",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@332745072fe8b5270b3ef85888b81c3bb5452c09/pages/boxru-big-overview-2026-03-26/cover-boxru-big-overview.svg",
       "commit_sha": "332745072fe8b5270b3ef85888b81c3bb5452c09"
     }
   ],
-  "updated_at": "2026-03-26T11:01:17Z"
+  "updated_at": "2026-03-26T11:01:21Z"
 }
