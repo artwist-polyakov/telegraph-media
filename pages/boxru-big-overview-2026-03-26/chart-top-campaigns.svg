@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#faf7f2" />
+<text x="74.0" y="86.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#65717d" text-anchor="start">4 / ТОП КАМПАНИИ</text>
+<text x="74.0" y="132.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">Видимый paid-результат держат четыре контура</text>
+<text x="74.0" y="176.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">Сравнение revenue и подтвержденного cost по кампаниям, где расход виден в выгрузке. ROAS</text>
+<text x="74.0" y="204.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">на уровне кампаний нужен как ориентир, не как финальный P&amp;L.</text>
+<rect x="74.0" y="226.0" width="1450.0" height="594.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<line x1="500.0" y1="296.0" x2="500.0" y2="762.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="500.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">0 ₽</text>
+<line x1="770.0" y1="296.0" x2="770.0" y2="762.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="770.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">100 000 ₽</text>
+<line x1="1040.0" y1="296.0" x2="1040.0" y2="762.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1040.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">200 000 ₽</text>
+<line x1="1310.0" y1="296.0" x2="1310.0" y2="762.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1310.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">300 000 ₽</text>
+<text x="120.0" y="322.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Gallery search</text>
+<rect x="500.0" y="324.0" width="810.0" height="34.0" fill="#e9f1f6" rx="17.0" />
+<rect x="500.0" y="324.0" width="810.0" height="34.0" fill="#173f5f" rx="17.0" />
+<rect x="500.0" y="364.0" width="810.0" height="20.0" fill="#f4e5e1" rx="10.0" />
+<rect x="500.0" y="364.0" width="191.2" height="20.0" fill="#d36b52" rx="10.0" />
+<text x="1338.0" y="340.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">4.24x ROAS</text>
+<text x="1338.0" y="372.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">16 покупок</text>
+<text x="1324.0" y="348.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">228 675 ₽</text>
+<text x="705.2" y="380.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#d36b52" text-anchor="start">53 984 ₽</text>
+<text x="120.0" y="434.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Gallery expensive</text>
+<rect x="500.0" y="436.0" width="810.0" height="34.0" fill="#e9f1f6" rx="17.0" />
+<rect x="500.0" y="436.0" width="720.6" height="34.0" fill="#173f5f" rx="17.0" />
+<rect x="500.0" y="476.0" width="810.0" height="20.0" fill="#f4e5e1" rx="10.0" />
+<rect x="500.0" y="476.0" width="128.3" height="20.0" fill="#d36b52" rx="10.0" />
+<text x="1338.0" y="452.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">5.62x ROAS</text>
+<text x="1338.0" y="484.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">7 покупок</text>
+<text x="1234.6" y="460.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">203 430 ₽</text>
+<text x="642.3" y="492.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#d36b52" text-anchor="start">36 212 ₽</text>
+<text x="120.0" y="546.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Подарочные книги</text>
+<rect x="500.0" y="548.0" width="810.0" height="34.0" fill="#e9f1f6" rx="17.0" />
+<rect x="500.0" y="548.0" width="462.2" height="34.0" fill="#173f5f" rx="17.0" />
+<rect x="500.0" y="588.0" width="810.0" height="20.0" fill="#f4e5e1" rx="10.0" />
+<rect x="500.0" y="588.0" width="7.1" height="20.0" fill="#d36b52" rx="10.0" />
+<text x="1338.0" y="564.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">65.25x ROAS</text>
+<text x="1338.0" y="596.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">1 покупок</text>
+<text x="976.2" y="572.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">130 500 ₽</text>
+<text x="521.1" y="604.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#d36b52" text-anchor="start">2 000 ₽</text>
+<text x="120.0" y="658.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Globus bar search</text>
+<rect x="500.0" y="660.0" width="810.0" height="34.0" fill="#e9f1f6" rx="17.0" />
+<rect x="500.0" y="660.0" width="160.7" height="34.0" fill="#173f5f" rx="17.0" />
+<rect x="500.0" y="700.0" width="810.0" height="20.0" fill="#f4e5e1" rx="10.0" />
+<rect x="500.0" y="700.0" width="15.6" height="20.0" fill="#d36b52" rx="10.0" />
+<text x="1338.0" y="676.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">10.31x ROAS</text>
+<text x="1338.0" y="708.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">4 покупок</text>
+<text x="674.7" y="684.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">45 380 ₽</text>
+<text x="529.6" y="716.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#d36b52" text-anchor="start">4 400 ₽</text>
+<rect x="1020.0" y="246.0" width="420.0" height="74.0" fill="#f4ecd8" rx="20.0" />
+<text x="1050.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Видимый cost покрывает только 80.6% spend по каналу</text>
+<text x="1050.0" y="310.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">Кампании с revenue без cost в этот график не включены.</text>
+</svg>
