@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#faf7f2" />
+<text x="74.0" y="86.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#65717d" text-anchor="start">1 / СРАВНЕНИЕ ПЕРИОДОВ</text>
+<text x="74.0" y="132.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">Трафик держится, а деньги просели на уровне чека</text>
+<text x="74.0" y="176.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">Сравнение текущего среза, предыдущих 30 дней и аналогичного периода год назад. Именно</text>
+<text x="74.0" y="204.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">выручка показывает самый сильный разрыв.</text>
+<rect x="80.0" y="250.0" width="460.0" height="520.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<text x="112.0" y="304.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#17212b" text-anchor="start">Сессии</text>
+<text x="112.0" y="340.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">3 опорных периода</text>
+<line x1="128.0" y1="670.0" x2="492.0" y2="670.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="120.0" y="676.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">0</text>
+<line x1="128.0" y1="530.0" x2="492.0" y2="530.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="120.0" y="536.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">10 000</text>
+<line x1="128.0" y1="390.0" x2="492.0" y2="390.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="120.0" y="396.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">20 000</text>
+<line x1="128.0" y1="250.0" x2="492.0" y2="250.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="120.0" y="256.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">30 000</text>
+<rect x="166.0" y="306.3" width="82.0" height="363.7" fill="#173f5f" rx="18.0" />
+<text x="207.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Текущий</text>
+<text x="207.0" y="294.3" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">25 980</text>
+<rect x="272.0" y="314.7" width="82.0" height="355.3" fill="#d36b52" rx="18.0" />
+<text x="313.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Пред. 30д</text>
+<text x="313.0" y="302.7" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">25 382</text>
+<rect x="378.0" y="340.4" width="82.0" height="329.6" fill="#2f8f83" rx="18.0" />
+<text x="419.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Год назад</text>
+<text x="419.0" y="328.4" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">23 540</text>
+<rect x="570.0" y="250.0" width="460.0" height="520.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<text x="602.0" y="304.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#17212b" text-anchor="start">Покупки</text>
+<text x="602.0" y="340.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">3 опорных периода</text>
+<line x1="618.0" y1="670.0" x2="982.0" y2="670.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="610.0" y="676.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">0</text>
+<line x1="618.0" y1="565.0" x2="982.0" y2="565.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="610.0" y="571.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">25</text>
+<line x1="618.0" y1="460.0" x2="982.0" y2="460.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="610.0" y="466.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">50</text>
+<line x1="618.0" y1="355.0" x2="982.0" y2="355.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="610.0" y="361.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">75</text>
+<line x1="618.0" y1="250.0" x2="982.0" y2="250.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="610.0" y="256.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">100</text>
+<rect x="656.0" y="392.8" width="82.0" height="277.2" fill="#173f5f" rx="18.0" />
+<text x="697.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Текущий</text>
+<text x="697.0" y="380.8" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">66</text>
+<rect x="762.0" y="338.2" width="82.0" height="331.8" fill="#d36b52" rx="18.0" />
+<text x="803.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Пред. 30д</text>
+<text x="803.0" y="326.2" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">79</text>
+<rect x="868.0" y="405.4" width="82.0" height="264.6" fill="#2f8f83" rx="18.0" />
+<text x="909.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Год назад</text>
+<text x="909.0" y="393.4" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">63</text>
+<rect x="1060.0" y="250.0" width="460.0" height="520.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<text x="1092.0" y="304.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#17212b" text-anchor="start">Выручка</text>
+<text x="1092.0" y="340.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#65717d" text-anchor="start">3 опорных периода</text>
+<line x1="1108.0" y1="670.0" x2="1472.0" y2="670.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1100.0" y="676.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">0 ₽</text>
+<line x1="1108.0" y1="565.0" x2="1472.0" y2="565.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1100.0" y="571.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">1 000 000 ₽</text>
+<line x1="1108.0" y1="460.0" x2="1472.0" y2="460.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1100.0" y="466.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">2 000 000 ₽</text>
+<line x1="1108.0" y1="355.0" x2="1472.0" y2="355.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1100.0" y="361.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">3 000 000 ₽</text>
+<line x1="1108.0" y1="250.0" x2="1472.0" y2="250.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1100.0" y="256.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">4 000 000 ₽</text>
+<rect x="1146.0" y="547.0" width="82.0" height="123.0" fill="#173f5f" rx="18.0" />
+<text x="1187.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Текущий</text>
+<text x="1187.0" y="535.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">1 171 295 ₽</text>
+<rect x="1252.0" y="299.9" width="82.0" height="370.1" fill="#d36b52" rx="18.0" />
+<text x="1293.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Пред. 30д</text>
+<text x="1293.0" y="287.9" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">3 524 959 ₽</text>
+<rect x="1358.0" y="531.1" width="82.0" height="138.9" fill="#2f8f83" rx="18.0" />
+<text x="1399.0" y="704.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#65717d" text-anchor="middle">Год назад</text>
+<text x="1399.0" y="519.1" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="middle">1 322 705 ₽</text>
+<rect x="1092.0" y="702.0" width="396.0" height="54.0" fill="#f6e3dd" rx="16.0" />
+<text x="1112.0" y="736.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#d36b52" text-anchor="start">Средний чек: 17 747 ₽ (-60.2%)</text>
+</svg>
