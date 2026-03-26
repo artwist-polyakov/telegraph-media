@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#faf7f2" />
+<text x="74.0" y="86.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#65717d" text-anchor="start">2 / СТРУКТУРА ВЫРУЧКИ</text>
+<text x="74.0" y="132.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">Деньги по-прежнему делает paid, но доля organic заметно выросла</text>
+<text x="74.0" y="176.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">Горизонтальные бары показывают текущую структуру выручки по каналам. Рост доли organic</text>
+<text x="74.0" y="204.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">объясняется не рывком SEO, а более сильной просадкой платного трафика.</text>
+<rect x="74.0" y="230.0" width="1450.0" height="590.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<line x1="350.0" y1="296.0" x2="350.0" y2="772.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="350.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">0 ₽</text>
+<line x1="610.0" y1="296.0" x2="610.0" y2="772.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="610.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">200 000 ₽</text>
+<line x1="870.0" y1="296.0" x2="870.0" y2="772.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="870.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">400 000 ₽</text>
+<line x1="1130.0" y1="296.0" x2="1130.0" y2="772.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1130.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">600 000 ₽</text>
+<line x1="1390.0" y1="296.0" x2="1390.0" y2="772.0" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="1390.0" y="286.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="middle">800 000 ₽</text>
+<text x="118.0" y="340.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Ad traffic</text>
+<rect x="350.0" y="308.0" width="1040.0" height="28.0" fill="#e8eff5" rx="14.0" />
+<rect x="350.0" y="308.0" width="1040.0" height="28.0" fill="#173f5f" rx="14.0" />
+<text x="1410.0" y="330.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#17212b" text-anchor="start">737 865 ₽  •  63.0%</text>
+<text x="118.0" y="406.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Search engine traffic</text>
+<rect x="350.0" y="374.0" width="1040.0" height="28.0" fill="#e8eff5" rx="14.0" />
+<rect x="350.0" y="374.0" width="324.3" height="28.0" fill="#2f8f83" rx="14.0" />
+<text x="1410.0" y="396.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#17212b" text-anchor="start">230 113 ₽  •  19.6%</text>
+<text x="118.0" y="472.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Direct traffic</text>
+<rect x="350.0" y="440.0" width="1040.0" height="28.0" fill="#e8eff5" rx="14.0" />
+<rect x="350.0" y="440.0" width="148.5" height="28.0" fill="#d36b52" rx="14.0" />
+<text x="1410.0" y="462.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#17212b" text-anchor="start">105 347 ₽  •  9.0%</text>
+<text x="118.0" y="538.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Internal traffic</text>
+<rect x="350.0" y="506.0" width="1040.0" height="28.0" fill="#e8eff5" rx="14.0" />
+<rect x="350.0" y="506.0" width="81.5" height="28.0" fill="#d6a54b" rx="14.0" />
+<text x="1410.0" y="528.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#17212b" text-anchor="start">57 790 ₽  •  4.9%</text>
+<text x="118.0" y="604.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Mailing traffic</text>
+<rect x="350.0" y="572.0" width="1040.0" height="28.0" fill="#e8eff5" rx="14.0" />
+<rect x="350.0" y="572.0" width="39.6" height="28.0" fill="#7a5c99" rx="14.0" />
+<text x="1410.0" y="594.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#17212b" text-anchor="start">28 090 ₽  •  2.4%</text>
+<text x="118.0" y="670.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Link traffic</text>
+<rect x="350.0" y="638.0" width="1040.0" height="28.0" fill="#e8eff5" rx="14.0" />
+<rect x="350.0" y="638.0" width="10.1" height="28.0" fill="#748a3d" rx="14.0" />
+<text x="1410.0" y="660.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#17212b" text-anchor="start">7 200 ₽  •  0.6%</text>
+<text x="118.0" y="736.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#17212b" text-anchor="start">Social network traffic</text>
+<rect x="350.0" y="704.0" width="1040.0" height="28.0" fill="#e8eff5" rx="14.0" />
+<rect x="350.0" y="704.0" width="6.9" height="28.0" fill="#28333f" rx="14.0" />
+<text x="1410.0" y="726.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#17212b" text-anchor="start">4 890 ₽  •  0.4%</text>
+<rect x="1040.0" y="260.0" width="420.0" height="124.0" fill="#f4ecd8" rx="22.0" />
+<text x="1070.0" y="308.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#65717d" text-anchor="start">Топ-3 канала сейчас</text>
+<text x="1070.0" y="352.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#17212b" text-anchor="start">Paid 63.0%  •  Organic 19.6%  •  Direct 9.0%</text>
+<text x="1070.0" y="388.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="600" fill="#65717d" text-anchor="start">В сумме это 91.6% всей выручки периода.</text>
+</svg>
