@@ -14,6 +14,12 @@
       "commit_sha": "7b2687797be301ad6e33c9ede6b5bd6ac28fdf65"
     },
     {
+      "path": "pages/boxru-big-overview-2026-03-26/chart-top-campaigns.svg",
+      "sha": "c6d3c4d5515610983503113004a84d4d38aa8773",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@f4372fe796d1a1b4f2d2f26bb0da83c74e87916b/pages/boxru-big-overview-2026-03-26/chart-top-campaigns.svg",
+      "commit_sha": "f4372fe796d1a1b4f2d2f26bb0da83c74e87916b"
+    },
+    {
       "path": "pages/boxru-big-overview-2026-03-26/chart-weekly-revenue.svg",
       "sha": "b2d0b62829233277b629fa965bc4d3f8653710ec",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@9ce9547e9b7f7459fabd994a7388ef9b7448d2b8/pages/boxru-big-overview-2026-03-26/chart-weekly-revenue.svg",
@@ -26,5 +32,5 @@
       "commit_sha": "332745072fe8b5270b3ef85888b81c3bb5452c09"
     }
   ],
-  "updated_at": "2026-03-26T11:01:29Z"
+  "updated_at": "2026-03-26T11:01:33Z"
 }
