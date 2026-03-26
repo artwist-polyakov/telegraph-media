@@ -8,11 +8,17 @@
       "commit_sha": "9d051f6f3fa45443b9648dc28d97b143fa38c639"
     },
     {
+      "path": "pages/boxru-big-overview-2026-03-26/chart-revenue-by-channel.svg",
+      "sha": "e7817820e1839405a1688c5435baf8cdf33b6b7b",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@7b2687797be301ad6e33c9ede6b5bd6ac28fdf65/pages/boxru-big-overview-2026-03-26/chart-revenue-by-channel.svg",
+      "commit_sha": "7b2687797be301ad6e33c9ede6b5bd6ac28fdf65"
+    },
+    {
       "path": "pages/boxru-big-overview-2026-03-26/cover-boxru-big-overview.svg",
       "sha": "b7e6ecfaf01a481fc5e3e43b4df4e55dc944c254",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@332745072fe8b5270b3ef85888b81c3bb5452c09/pages/boxru-big-overview-2026-03-26/cover-boxru-big-overview.svg",
       "commit_sha": "332745072fe8b5270b3ef85888b81c3bb5452c09"
     }
   ],
-  "updated_at": "2026-03-26T11:01:21Z"
+  "updated_at": "2026-03-26T11:01:25Z"
 }
