@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<rect width="1600" height="900" fill="#faf7f2" />
+<text x="74.0" y="86.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#65717d" text-anchor="start">5 / КЛЮЧЕВЫЕ НАПРАВЛЕНИЯ И СЕЗОННОСТЬ</text>
+<text x="74.0" y="132.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" fill="#17212b" text-anchor="start">Q4 усиливает подарочные категории, март живёт ниже среднего почти везде</text>
+<text x="74.0" y="176.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">Линии приведены к индексу 100 = средний спрос по representative phrase. Это внешний спрос</text>
+<text x="74.0" y="204.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" fill="#65717d" text-anchor="start">Wordstat, а не продажи по SKU, зато он хорошо показывает форму сезона.</text>
+<rect x="74.0" y="226.0" width="1450.0" height="594.0" fill="#ffffff" rx="28.0" stroke="#e7ecef" stroke-width="2.0" />
+<line x1="120.0" y1="718.1" x2="1320.0" y2="718.1" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="108.0" y="724.1" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">50</text>
+<line x1="120.0" y1="643.5" x2="1320.0" y2="643.5" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="108.0" y="649.5" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">75</text>
+<line x1="120.0" y1="568.8" x2="1320.0" y2="568.8" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="6 8" />
+<text x="108.0" y="574.8" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">100</text>
+<line x1="120.0" y1="494.1" x2="1320.0" y2="494.1" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="108.0" y="500.1" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">125</text>
+<line x1="120.0" y1="419.5" x2="1320.0" y2="419.5" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="108.0" y="425.5" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">150</text>
+<line x1="120.0" y1="344.8" x2="1320.0" y2="344.8" stroke="#d9dfe5" stroke-width="1.5" stroke-linecap="round" />
+<text x="108.0" y="350.8" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="500" fill="#65717d" text-anchor="end">175</text>
+<text x="120.0" y="784.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">янв 25</text>
+<text x="304.6" y="784.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">мар 25</text>
+<text x="489.2" y="784.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">май 25</text>
+<text x="673.8" y="784.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">июл 25</text>
+<text x="858.5" y="784.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">сен 25</text>
+<text x="1043.1" y="784.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">ноя 25</text>
+<text x="1227.7" y="784.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#65717d" text-anchor="middle">янв 26</text>
+<polyline points="120.0,474.3 212.3,469.1 304.6,601.4 396.9,630.5 489.2,621.3 581.5,454.5 673.8,316.8 766.2,496.9 858.5,621.3 950.8,604.1 1043.1,569.7 1135.4,674.2 1227.7,687.5 1320.0,741.7" fill="none" stroke="#d6a54b" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="120.0" cy="474.3" r="3.8" fill="#d6a54b" />
+<circle cx="212.3" cy="469.1" r="3.8" fill="#d6a54b" />
+<circle cx="304.6" cy="601.4" r="3.8" fill="#d6a54b" />
+<circle cx="396.9" cy="630.5" r="3.8" fill="#d6a54b" />
+<circle cx="489.2" cy="621.3" r="3.8" fill="#d6a54b" />
+<circle cx="581.5" cy="454.5" r="3.8" fill="#d6a54b" />
+<circle cx="673.8" cy="316.8" r="3.8" fill="#d6a54b" />
+<circle cx="766.2" cy="496.9" r="3.8" fill="#d6a54b" />
+<circle cx="858.5" cy="621.3" r="3.8" fill="#d6a54b" />
+<circle cx="950.8" cy="604.1" r="3.8" fill="#d6a54b" />
+<circle cx="1043.1" cy="569.7" r="3.8" fill="#d6a54b" />
+<circle cx="1135.4" cy="674.2" r="3.8" fill="#d6a54b" />
+<circle cx="1227.7" cy="687.5" r="3.8" fill="#d6a54b" />
+<circle cx="1320.0" cy="741.7" r="6.0" fill="#ffffff" stroke="#d6a54b" stroke-width="4.0" />
+<line x1="1350.0" y1="278.0" x2="1382.0" y2="278.0" stroke="#d6a54b" stroke-width="6.0" stroke-linecap="round" />
+<text x="1394.0" y="284.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">Сув. оружие  42</text>
+<polyline points="120.0,506.0 212.3,455.0 304.6,515.5 396.9,548.3 489.2,537.3 581.5,608.9 673.8,652.4 766.2,622.6 858.5,633.1 950.8,587.8 1043.1,539.1 1135.4,572.0 1227.7,587.1 1320.0,598.0" fill="none" stroke="#748a3d" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="120.0" cy="506.0" r="3.8" fill="#748a3d" />
+<circle cx="212.3" cy="455.0" r="3.8" fill="#748a3d" />
+<circle cx="304.6" cy="515.5" r="3.8" fill="#748a3d" />
+<circle cx="396.9" cy="548.3" r="3.8" fill="#748a3d" />
+<circle cx="489.2" cy="537.3" r="3.8" fill="#748a3d" />
+<circle cx="581.5" cy="608.9" r="3.8" fill="#748a3d" />
+<circle cx="673.8" cy="652.4" r="3.8" fill="#748a3d" />
+<circle cx="766.2" cy="622.6" r="3.8" fill="#748a3d" />
+<circle cx="858.5" cy="633.1" r="3.8" fill="#748a3d" />
+<circle cx="950.8" cy="587.8" r="3.8" fill="#748a3d" />
+<circle cx="1043.1" cy="539.1" r="3.8" fill="#748a3d" />
+<circle cx="1135.4" cy="572.0" r="3.8" fill="#748a3d" />
+<circle cx="1227.7" cy="587.1" r="3.8" fill="#748a3d" />
+<circle cx="1320.0" cy="598.0" r="6.0" fill="#ffffff" stroke="#748a3d" stroke-width="4.0" />
+<line x1="1350.0" y1="326.0" x2="1382.0" y2="326.0" stroke="#748a3d" stroke-width="6.0" stroke-linecap="round" />
+<text x="1394.0" y="332.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">Ретро-аудио  90</text>
+<polyline points="120.0,525.5 212.3,541.7 304.6,577.0 396.9,599.2 489.2,601.9 581.5,605.9 673.8,618.8 766.2,556.9 858.5,608.0 950.8,546.6 1043.1,511.8 1135.4,517.8 1227.7,568.4 1320.0,583.7" fill="none" stroke="#173f5f" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="120.0" cy="525.5" r="3.8" fill="#173f5f" />
+<circle cx="212.3" cy="541.7" r="3.8" fill="#173f5f" />
+<circle cx="304.6" cy="577.0" r="3.8" fill="#173f5f" />
+<circle cx="396.9" cy="599.2" r="3.8" fill="#173f5f" />
+<circle cx="489.2" cy="601.9" r="3.8" fill="#173f5f" />
+<circle cx="581.5" cy="605.9" r="3.8" fill="#173f5f" />
+<circle cx="673.8" cy="618.8" r="3.8" fill="#173f5f" />
+<circle cx="766.2" cy="556.9" r="3.8" fill="#173f5f" />
+<circle cx="858.5" cy="608.0" r="3.8" fill="#173f5f" />
+<circle cx="950.8" cy="546.6" r="3.8" fill="#173f5f" />
+<circle cx="1043.1" cy="511.8" r="3.8" fill="#173f5f" />
+<circle cx="1135.4" cy="517.8" r="3.8" fill="#173f5f" />
+<circle cx="1227.7" cy="568.4" r="3.8" fill="#173f5f" />
+<circle cx="1320.0" cy="583.7" r="6.0" fill="#ffffff" stroke="#173f5f" stroke-width="4.0" />
+<line x1="1350.0" y1="374.0" x2="1382.0" y2="374.0" stroke="#173f5f" stroke-width="6.0" stroke-linecap="round" />
+<text x="1394.0" y="380.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">Диск. телефоны  95</text>
+<polyline points="120.0,443.9 212.3,496.5 304.6,569.1 396.9,639.9 489.2,665.5 581.5,668.0 673.8,660.2 766.2,625.6 858.5,621.7 950.8,574.2 1043.1,524.2 1135.4,369.1 1227.7,508.1 1320.0,597.3" fill="none" stroke="#d36b52" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="120.0" cy="443.9" r="3.8" fill="#d36b52" />
+<circle cx="212.3" cy="496.5" r="3.8" fill="#d36b52" />
+<circle cx="304.6" cy="569.1" r="3.8" fill="#d36b52" />
+<circle cx="396.9" cy="639.9" r="3.8" fill="#d36b52" />
+<circle cx="489.2" cy="665.5" r="3.8" fill="#d36b52" />
+<circle cx="581.5" cy="668.0" r="3.8" fill="#d36b52" />
+<circle cx="673.8" cy="660.2" r="3.8" fill="#d36b52" />
+<circle cx="766.2" cy="625.6" r="3.8" fill="#d36b52" />
+<circle cx="858.5" cy="621.7" r="3.8" fill="#d36b52" />
+<circle cx="950.8" cy="574.2" r="3.8" fill="#d36b52" />
+<circle cx="1043.1" cy="524.2" r="3.8" fill="#d36b52" />
+<circle cx="1135.4" cy="369.1" r="3.8" fill="#d36b52" />
+<circle cx="1227.7" cy="508.1" r="3.8" fill="#d36b52" />
+<circle cx="1320.0" cy="597.3" r="6.0" fill="#ffffff" stroke="#d36b52" stroke-width="4.0" />
+<line x1="1350.0" y1="422.0" x2="1382.0" y2="422.0" stroke="#d36b52" stroke-width="6.0" stroke-linecap="round" />
+<text x="1394.0" y="428.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">Лав. лампы  90</text>
+<polyline points="120.0,457.5 212.3,488.9 304.6,539.5 396.9,595.6 489.2,618.8 581.5,608.6 673.8,599.5 766.2,602.9 858.5,592.3 950.8,562.6 1043.1,556.9 1135.4,541.2 1227.7,592.0 1320.0,607.0" fill="none" stroke="#2f8f83" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="120.0" cy="457.5" r="3.8" fill="#2f8f83" />
+<circle cx="212.3" cy="488.9" r="3.8" fill="#2f8f83" />
+<circle cx="304.6" cy="539.5" r="3.8" fill="#2f8f83" />
+<circle cx="396.9" cy="595.6" r="3.8" fill="#2f8f83" />
+<circle cx="489.2" cy="618.8" r="3.8" fill="#2f8f83" />
+<circle cx="581.5" cy="608.6" r="3.8" fill="#2f8f83" />
+<circle cx="673.8" cy="599.5" r="3.8" fill="#2f8f83" />
+<circle cx="766.2" cy="602.9" r="3.8" fill="#2f8f83" />
+<circle cx="858.5" cy="592.3" r="3.8" fill="#2f8f83" />
+<circle cx="950.8" cy="562.6" r="3.8" fill="#2f8f83" />
+<circle cx="1043.1" cy="556.9" r="3.8" fill="#2f8f83" />
+<circle cx="1135.4" cy="541.2" r="3.8" fill="#2f8f83" />
+<circle cx="1227.7" cy="592.0" r="3.8" fill="#2f8f83" />
+<circle cx="1320.0" cy="607.0" r="6.0" fill="#ffffff" stroke="#2f8f83" stroke-width="4.0" />
+<line x1="1350.0" y1="470.0" x2="1382.0" y2="470.0" stroke="#2f8f83" stroke-width="6.0" stroke-linecap="round" />
+<text x="1394.0" y="476.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">Глобус-бары  87</text>
+<polyline points="120.0,541.2 212.3,532.1 304.6,586.7 396.9,633.4 489.2,620.9 581.5,604.6 673.8,604.7 766.2,598.1 858.5,604.8 950.8,568.2 1043.1,540.9 1135.4,332.8 1227.7,603.1 1320.0,591.7" fill="none" stroke="#7a5c99" stroke-width="5.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="120.0" cy="541.2" r="3.8" fill="#7a5c99" />
+<circle cx="212.3" cy="532.1" r="3.8" fill="#7a5c99" />
+<circle cx="304.6" cy="586.7" r="3.8" fill="#7a5c99" />
+<circle cx="396.9" cy="633.4" r="3.8" fill="#7a5c99" />
+<circle cx="489.2" cy="620.9" r="3.8" fill="#7a5c99" />
+<circle cx="581.5" cy="604.6" r="3.8" fill="#7a5c99" />
+<circle cx="673.8" cy="604.7" r="3.8" fill="#7a5c99" />
+<circle cx="766.2" cy="598.1" r="3.8" fill="#7a5c99" />
+<circle cx="858.5" cy="604.8" r="3.8" fill="#7a5c99" />
+<circle cx="950.8" cy="568.2" r="3.8" fill="#7a5c99" />
+<circle cx="1043.1" cy="540.9" r="3.8" fill="#7a5c99" />
+<circle cx="1135.4" cy="332.8" r="3.8" fill="#7a5c99" />
+<circle cx="1227.7" cy="603.1" r="3.8" fill="#7a5c99" />
+<circle cx="1320.0" cy="591.7" r="6.0" fill="#ffffff" stroke="#7a5c99" stroke-width="4.0" />
+<line x1="1350.0" y1="518.0" x2="1382.0" y2="518.0" stroke="#7a5c99" stroke-width="6.0" stroke-linecap="round" />
+<text x="1394.0" y="524.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">Подар. книги  92</text>
+<rect x="120.0" y="242.0" width="500.0" height="42.0" fill="#f4ecd8" rx="16.0" />
+<text x="140.0" y="270.0" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="700" fill="#17212b" text-anchor="start">100 = средний спрос; ниже 100 значит спрос ниже своего обычного уровня</text>
+</svg>
