@@ -8,6 +8,12 @@
       "commit_sha": "e29b51df259f77e8c1e71cf1722833d8e14be2f9"
     },
     {
+      "path": "pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/paid-campaigns-v2.png",
+      "sha": "5a0b094bff21e61ef983c0151c7febaced077ad3",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@2d8f431fc5e0f0630ab21708f86ecbd58fb1e7d0/pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/paid-campaigns-v2.png",
+      "commit_sha": "2d8f431fc5e0f0630ab21708f86ecbd58fb1e7d0"
+    },
+    {
       "path": "pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/period-comparison-v2.png",
       "sha": "9efb84355f65250865b696166bf17cfa0344bf8e",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@ec077a7e130ed12c2b494237e328ed91ef5aa27b/pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/period-comparison-v2.png",
@@ -32,5 +38,5 @@
       "commit_sha": "5194843c539ddd68ed3c2cf0d92d9df6494acba2"
     }
   ],
-  "updated_at": "2026-03-26T12:01:04Z"
+  "updated_at": "2026-03-26T12:01:37Z"
 }
