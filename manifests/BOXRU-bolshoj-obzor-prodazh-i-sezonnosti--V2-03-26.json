@@ -24,7 +24,13 @@
       "sha": "9a87cfd4695799f86fcb25c4c8a342129ce35e3e",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@c9cf8bf29e5289f60c5d1019ee0bda08e5bbdbce/pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/seasonality-directions-v2.png",
       "commit_sha": "c9cf8bf29e5289f60c5d1019ee0bda08e5bbdbce"
+    },
+    {
+      "path": "pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/weekly-revenue-v2.png",
+      "sha": "a58e6d96667d6d13a7a2fc6d78bda1b39dd87b45",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@5194843c539ddd68ed3c2cf0d92d9df6494acba2/pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/weekly-revenue-v2.png",
+      "commit_sha": "5194843c539ddd68ed3c2cf0d92d9df6494acba2"
     }
   ],
-  "updated_at": "2026-03-26T12:00:44Z"
+  "updated_at": "2026-03-26T12:01:04Z"
 }
