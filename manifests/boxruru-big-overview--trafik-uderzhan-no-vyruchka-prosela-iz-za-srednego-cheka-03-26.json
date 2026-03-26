@@ -8,6 +8,12 @@
       "commit_sha": "be1333abb3cadda75fb2d255a0e72d0eee23c7f9"
     },
     {
+      "path": "pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/paid-campaigns.png",
+      "sha": "381ad7bb5f0a6449127476ea640a65e3acb0d185",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@8e313e6b9f4ff4da3b336e41867c4b91e282f1b5/pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/paid-campaigns.png",
+      "commit_sha": "8e313e6b9f4ff4da3b336e41867c4b91e282f1b5"
+    },
+    {
       "path": "pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/period-comparison.png",
       "sha": "ee6297cb631a43db895f487690b3a3c0bdf98a70",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@acf573e04846f2cbbff49991b1f60d088f0d1449/pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/period-comparison.png",
@@ -26,5 +32,5 @@
       "commit_sha": "eb146bd0601155707619aae685a2ae8de6f6d322"
     }
   ],
-  "updated_at": "2026-03-26T11:10:26Z"
+  "updated_at": "2026-03-26T11:10:30Z"
 }
