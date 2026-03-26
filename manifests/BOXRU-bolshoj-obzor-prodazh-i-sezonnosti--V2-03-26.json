@@ -14,11 +14,17 @@
       "commit_sha": "ec077a7e130ed12c2b494237e328ed91ef5aa27b"
     },
     {
+      "path": "pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/revenue-by-channel-v2.png",
+      "sha": "f3b7750f91395caa5a0a96d0f3d0ff4b2cd91390",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@3e580f6856b8d3b098732e319d0e54d491d5586c/pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/revenue-by-channel-v2.png",
+      "commit_sha": "3e580f6856b8d3b098732e319d0e54d491d5586c"
+    },
+    {
       "path": "pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/seasonality-directions-v2.png",
       "sha": "9a87cfd4695799f86fcb25c4c8a342129ce35e3e",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@c9cf8bf29e5289f60c5d1019ee0bda08e5bbdbce/pages/BOXRU-bolshoj-obzor-prodazh-i-sezonnosti--V2-03-26/seasonality-directions-v2.png",
       "commit_sha": "c9cf8bf29e5289f60c5d1019ee0bda08e5bbdbce"
     }
   ],
-  "updated_at": "2026-03-26T12:00:07Z"
+  "updated_at": "2026-03-26T12:00:44Z"
 }
