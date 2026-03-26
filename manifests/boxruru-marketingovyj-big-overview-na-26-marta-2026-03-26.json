@@ -2,11 +2,41 @@
   "path": "boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26",
   "assets": [
     {
+      "path": "pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-comparison-periods.png",
+      "sha": "fb04652d6a26830d2ac63f0f92949225573d8afc",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@cd6055311ab57bfcc9454ba0d5e20ca6b090d280/pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-comparison-periods.png",
+      "commit_sha": "cd6055311ab57bfcc9454ba0d5e20ca6b090d280"
+    },
+    {
+      "path": "pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-revenue-by-channel.png",
+      "sha": "d33427b17827b97dd071019ee2928c1901f545aa",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@cdbd4f78978b49f66f74a47b92557a2d3f7cafb4/pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-revenue-by-channel.png",
+      "commit_sha": "cdbd4f78978b49f66f74a47b92557a2d3f7cafb4"
+    },
+    {
+      "path": "pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-seasonality-directions.png",
+      "sha": "43f1c733ac1d03f65c4778b0bf2f4e392b33abd3",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@d63d98086671bc6a0d94ec798026d7aab96f2381/pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-seasonality-directions.png",
+      "commit_sha": "d63d98086671bc6a0d94ec798026d7aab96f2381"
+    },
+    {
+      "path": "pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-top-campaigns.png",
+      "sha": "288bee8dac69659534a17203d926a7632ef16682",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@df0602046087f7451d619b6b8a53f85f7f95895c/pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-top-campaigns.png",
+      "commit_sha": "df0602046087f7451d619b6b8a53f85f7f95895c"
+    },
+    {
       "path": "pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-weekly-revenue.png",
       "sha": "85b9d1a31f4eef774c82e2dc4a27500a4b62a4db",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@62fb0fda68a7ca5470326882083fd4d36125be7b/pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-weekly-revenue.png",
-      "commit_sha": "62fb0fda68a7ca5470326882083fd4d36125be7b"
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@45add1fd9c32b0aff229ad3cdc7ab069f5d64e00/pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/chart-weekly-revenue.png",
+      "commit_sha": "45add1fd9c32b0aff229ad3cdc7ab069f5d64e00"
+    },
+    {
+      "path": "pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/cover-boxru-big-overview.png",
+      "sha": "190e905791db2d077ec0f5c246697bd7fd08f4d0",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@0bf192900a55d1246d8a5edb3ed3cd87701ce5d5/pages/boxruru-marketingovyj-big-overview-na-26-marta-2026-03-26/cover-boxru-big-overview.png",
+      "commit_sha": "0bf192900a55d1246d8a5edb3ed3cd87701ce5d5"
     }
   ],
-  "updated_at": "2026-03-26T11:02:35Z"
+  "updated_at": "2026-03-26T11:04:44Z"
 }
