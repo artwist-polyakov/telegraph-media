@@ -26,11 +26,17 @@
       "commit_sha": "387c9a0214152fcb5efcb7f2f8a9a79084afa41d"
     },
     {
+      "path": "pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/seasonality-directions.png",
+      "sha": "8843d549ccb6a266eeae9ffd252b11d99f942d9a",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@003291aee41cd0e578490ca62ce11eeee2a1f39f/pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/seasonality-directions.png",
+      "commit_sha": "003291aee41cd0e578490ca62ce11eeee2a1f39f"
+    },
+    {
       "path": "pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/weekly-revenue.png",
       "sha": "4b5ed2a46e9c97363a4e90090d2a7468843c20f0",
       "cdn_url": "https://cdn.jsdelivr.net/gh/artwist-polyakov/telegraph-media@eb146bd0601155707619aae685a2ae8de6f6d322/pages/boxruru-big-overview--trafik-uderzhan-no-vyruchka-prosela-iz-za-srednego-cheka-03-26/weekly-revenue.png",
       "commit_sha": "eb146bd0601155707619aae685a2ae8de6f6d322"
     }
   ],
-  "updated_at": "2026-03-26T11:10:30Z"
+  "updated_at": "2026-03-26T11:10:34Z"
 }
